@@ -47,6 +47,8 @@ namespace burbuja,operaciones
         private void btmordenar_Click(object sender, EventArgs e)
         {
            metoburbuja burbuja = new metoburbuja();
+           burbuja.ordenarBurbuja(numbers);
+        ShowNumbers();
         }
     }
 }

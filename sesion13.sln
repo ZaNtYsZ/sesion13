@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burbuja", "burbuja\burbuja.csproj", "{D01C2162-E478-4EE8-A0D6-542F9A912443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro", "Registro\Registro.csproj", "{95D1463E-F1C7-4A48-A4A1-238FA905E535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D01C2162-E478-4EE8-A0D6-542F9A912443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D01C2162-E478-4EE8-A0D6-542F9A912443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D01C2162-E478-4EE8-A0D6-542F9A912443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D1463E-F1C7-4A48-A4A1-238FA905E535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D1463E-F1C7-4A48-A4A1-238FA905E535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D1463E-F1C7-4A48-A4A1-238FA905E535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D1463E-F1C7-4A48-A4A1-238FA905E535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
